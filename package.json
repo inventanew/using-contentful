@@ -10,7 +10,7 @@
     "gatsby-link": "latest",
     "gatsby-plugin-google-analytics": "latest",
     "gatsby-plugin-offline": "latest",
-    "gatsby-source-contentful": "latest",
+    "gatsby-source-contentful": "^1.3.23",
     "gatsby-transformer-remark": "latest",
     "lodash": "^4.16.4",
     "react-typography": "^0.15.0",
