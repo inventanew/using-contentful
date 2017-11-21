@@ -1,16 +1,16 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 14,
+            "totalCount": 8,
             "edges": [
                 {
                     "node": {
-                        "path": "/products/c5KsDBWseXY6QegucYAoacS/"
+                        "path": "/products/c4BqrajvA8E6qwgkieoqmqO/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
+                        "path": "/products/c5KsDBWseXY6QegucYAoacS/"
                     }
                 },
                 {
@@ -20,32 +20,7 @@
                 },
                 {
                     "node": {
-                        "path": "/products/c4BqrajvA8E6qwgkieoqmqO/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/products/c5KsDBWseXY6QegucYAoacS___de/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/products/c6dbjWqNd9SqccegcqYq224___de/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+                        "path": "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
                     }
                 },
                 {
@@ -55,12 +30,7 @@
                 },
                 {
                     "node": {
-                        "path": "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/"
+                        "path": "/categories/c7LAnCobuuWYSqks6wAwY2a/"
                     }
                 },
                 {
